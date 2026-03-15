@@ -1,4 +1,4 @@
-# Jawuan's GPT API
+# Jawuan GPT API
 
 ## 📚 Table of Contents
 
@@ -11,7 +11,7 @@
 
 ## 🧠 Project Overview
 
-Backend API for my personal AI-powered chatbot, **_Jawuan's GPT_**. This REST API handles all chat management and AI interactions, serving the [frontend client](https://github.com/jawuanlewis/jawuan-gpt-client). You can try the application here: [Jawuan's GPT](https://gpt.jawuanlewis.dev)
+Backend API for my personal AI-powered chatbot, **_Jawuan GPT_**. This REST API handles all chat management and AI interactions, serving the [frontend client](https://github.com/jawuanlewis/jawuan-gpt-client). You can try the application here: [Jawuan GPT](https://gpt.jawuanlewis.dev)
 
 ## 💻 Tech Stack
 
