@@ -30,12 +30,12 @@ jawuan-gpt-api/
 │   ├── db.ts                # MongoDB connection
 │   └── open-ai.ts           # OpenAI client setup
 ├── controllers/
-│   └── chatController.ts    # Chat logic (history, prompt handling, title updates)
+│   └── chat-controller.ts   # Chat logic (history, prompt handling, title updates)
 ├── models/
 │   ├── Chat.ts              # Mongoose Chat model
 │   └── Message.ts           # Mongoose Message model
 ├── routes/
-│   └── chatRoutes.ts        # Chat API route definitions
+│   └── chat-routes.ts       # Chat API route definitions
 ├── types/
 │   └── chat.ts              # TypeScript type definitions
 │
